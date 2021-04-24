@@ -27,7 +27,7 @@
  *
  */
 
-class Zend_View_Helper_Breadcrumbs extends Zend_View_Helper_Abstract
+class Zend_View_Helper_Breadcrumbs extends Zend_View_Helper_Abstract 
 {
 	
     public  function breadcrumbs($baseUrlString = '')

@@ -26,8 +26,7 @@ class Zend_View_Helper_Servicegrid extends Zend_View_Helper_Abstract
     private $output; // Container to hold the Grid
     
     public function servicegrid($dataArray)
-    {
-        die('here');
+    {                                		                                
         $actnArr = array();
         $sortStr = isset($dataArray['by'])?$dataArray['by']:"";
         		                					
