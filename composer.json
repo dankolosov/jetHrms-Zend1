@@ -12,6 +12,9 @@
             "Zend_": "library/"
         }
     },
+    "include-path": [
+        "library/"
+    ],
     "require": {
         "php": ">=7.0"
     }
