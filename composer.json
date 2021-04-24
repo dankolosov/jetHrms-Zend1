@@ -2,6 +2,15 @@
     "name": "jet-hrms/zf1",
     "description": "Zend Framework 1.19 and additional components from official Zend Framework 1 for Sentrifugo",
     "type": "library",
+    "keywords": [
+        "framework",
+        "zf1"
+    ],
+    "autoload": {
+        "psr-0": {
+            "Zend_": "library/"
+        }
+    },
     "require": {
         "php": ">=7.0",
         "shardj/zf1-future": "^1.19"
