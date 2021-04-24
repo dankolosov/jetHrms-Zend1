@@ -1,0 +1,9 @@
+{
+    "name": "jetHRMS/zf1",
+    "description": "Zend Framework 1.19 and additional components from official Zend Framework 1 for Sentrifugo",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "shardj/zf1-future": "^1.19"
+    }
+}
