@@ -1,5 +1,5 @@
 {
-    "name": "jetHRMS/zf1",
+    "name": "jet-hrms/zf1",
     "description": "Zend Framework 1.19 and additional components from official Zend Framework 1 for Sentrifugo",
     "type": "library",
     "require": {
