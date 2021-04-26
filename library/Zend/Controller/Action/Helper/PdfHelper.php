@@ -134,7 +134,7 @@ class Zend_Controller_Action_Helper_PdfHelper extends Zend_Controller_Action_Hel
 
 // Include library scripts below
 
-require_once('FPDF/fpdf.php');
+//require_once('FPDF/fpdf.php');
 
 class PDF_MC_Table extends FPDF
 {

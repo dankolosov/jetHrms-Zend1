@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "shardj/zf1-future": "^1.19.1"
+        "shardj/zf1-future": "^1.19.1",
+        "setasign/fpdf": "^1.8"
     }
 }
